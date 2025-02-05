@@ -1,0 +1,10 @@
+a=(1,2)
+b=a
+print(b)
+c=(4,5)
+a=c
+print(a)
+c=[]
+c.insert(1,2)
+c.append(4)
+print(c)
